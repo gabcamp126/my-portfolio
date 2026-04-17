@@ -90,7 +90,7 @@ function About() {
 
             <div className="flex flex-wrap gap-8 items-center mt-4">
               <div className="flex flex-col">
-                <span className="text-3xl font-black text-white">2+</span>
+                <span className="text-3xl font-black text-white">9+</span>
                 <span className="text-xs text-slate-500 uppercase tracking-widest font-bold">
                   Years Experience
                 </span>
