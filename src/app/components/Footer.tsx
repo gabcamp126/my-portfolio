@@ -66,12 +66,12 @@ const Footer = () => (
               >
                 {personalData.email}
               </a>
-              <a
+              {/* <a
                 href={`tel:${personalData.phone}`}
                 className="text-gray-400 hover:text-red-500 transition-all font-medium"
               >
                 {personalData.phone}
-              </a>
+              </a> */}
             </div>
           </div>
 

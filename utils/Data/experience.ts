@@ -17,7 +17,7 @@ export const experiences = [
     id: 2,
     title: "Frontend Developer Intern",
     company: "Alphabase Private Ltd.",
-    duration: "Nov 2021 - Apr 2022",
+    duration: "Nov 2019 - Apr 2022",
     details: [
       "Developing and maintaining feature-rich web applications using Next.js and TypeScript.",
       "Collaborating with senior developers to implement high-performance UI components using Tailwind CSS and Radix UI.",
@@ -29,7 +29,7 @@ export const experiences = [
     id: 3,
     title: "Frontend Developer (Remote)",
     company: "Juhuu GmbH",
-    duration: "Oct 2020 - Mar 2021",
+    duration: "Oct 2017 - Mar 2019",
     details: [
       "Worked on IoT-based platform interfaces for micro-mobility solutions.",
       "Translated complex Figma designs into responsive, interactive React components.",
@@ -41,7 +41,7 @@ export const experiences = [
     id: 4,
     title: "Self-Employed / Full Stack Learner",
     company: "Personal Projects & Freelance",
-    duration: "Jan 2020 - Present",
+    duration: "Jan 2017 - Present",
     details: [
       "Dedicated 1000+ hours to mastering full-stack development with a focus on the T3 stack (TypeScript, Tailwind, tRPC).",
       "Built multiple production-ready SaaS clones and original applications.",
