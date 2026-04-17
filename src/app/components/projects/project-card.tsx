@@ -1,14 +1,12 @@
 "use client";
-import { Button } from "@/components/ui/button";
 import {
   Card,
   CardContent,
-  CardFooter,
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
 import { ProjectCardProps } from "@/Types/types";
-import { ChevronUp, Code, ExternalLink, Globe, Sparkles } from "lucide-react";
+import { ChevronUp, ExternalLink, Sparkles } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 import { MouseEvent, useRef, useState } from "react";

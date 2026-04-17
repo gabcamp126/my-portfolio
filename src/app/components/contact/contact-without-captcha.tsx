@@ -5,7 +5,7 @@ import React, { useState } from "react";
 import { TbMailForward } from "react-icons/tb";
 import { toast } from "react-toastify";
 import { isValidEmail } from "@/../utils/check-email";
-import { User, Mail, MessageSquare } from "lucide-react";
+import { User, Mail } from "lucide-react";
 
 const ContactWithoutCaptcha = () => {
   const [input, setInput] = useState({
